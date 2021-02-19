@@ -4,7 +4,7 @@
 #
 Name     : vsts
 Version  : 0.1.25
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/ce/fa/4405cdb2a6b0476a94b24254cdfb1df7ff43138a91ccc79cd6fc877177af/vsts-0.1.25.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ce/fa/4405cdb2a6b0476a94b24254cdfb1df7ff43138a91ccc79cd6fc877177af/vsts-0.1.25.tar.gz
 Summary  : Python wrapper around the VSTS APIs
